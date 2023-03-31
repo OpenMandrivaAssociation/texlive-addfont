@@ -1,6 +1,6 @@
 Name:		texlive-addfont
 Version:	58559
-Release:	1
+Release:	2
 Summary:	Easier use of fonts without LaTeX support
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/addfont

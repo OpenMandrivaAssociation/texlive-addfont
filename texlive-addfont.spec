@@ -3,7 +3,7 @@ Version:	58559
 Release:	2
 Summary:	Easier use of fonts without LaTeX support
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/addfont
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/addfont
 License:	gpl3+
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/addfont.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/addfont.doc.r%{version}.tar.xz
